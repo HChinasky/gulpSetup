@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAGA,KACI,kBAJa,CAKb,aAJW,CAKX,sCAAY,CAAZ,iCAAY,CAAZ,8BAA+B","file":"main.min.css","sourcesContent":["$bgcolor: #f5f4d4;\r\n$color: #0f6fb2;\r\n\r\nbody {\r\n    background: $bgcolor;\r\n    color: $color;\r\n    transition: all .2s ease-in-out;\r\n}"]}
